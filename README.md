@@ -6,3 +6,5 @@ This repository is in no way affiliated with or representing robot-electronics, 
 There are probably better libraries for doing this out there, but we've not found many good and easy to read examples of this code for python, so... here it is.
 
 Heavily influenced by the work of cclement (and with thanks to him for his assistance).
+
+Note: Tested on python 2.7 on Ubuntu 14.04.
