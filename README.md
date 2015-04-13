@@ -1,3 +1,5 @@
+Note: The 'orig' files work, but the new ones don't. The sample code will be updated properly when the kit for me to test it arrives.
+
 Sample code for interfacing with I2C devices at Nao Hackathon London April 2015.
 
 For information on devices, see www.robot-electronics.co.uk.
